@@ -12,10 +12,10 @@ Travel Companion is a web app that serves you the basic details about your next 
 
 ## Live
 
-https://travel-companion69.herokuapp.com/
+
 
 ## Demo
-https://youtu.be/1-L4OyI_qx4
+
 
 ## Tech Stack
 
@@ -56,7 +56,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/<username>/Travel-Companion.git
+  git clone https://github.com/Mtakudzwa/TravelComp.git
   npm install
 ```
 
