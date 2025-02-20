@@ -12,7 +12,7 @@ Travel Companion is a web app that serves you the basic details about your next 
 
 ## Live
 
-
+https://travelcomp.onrender.com
 
 ## Demo
 
