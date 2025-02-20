@@ -1,5 +1,4 @@
 [build]
-  base = "/"   # Go inside the client folder
   command = "npm install && npm run build"   # Ensure dependencies are installed
   publish = "client/build"   # Serve from the build folder
 
